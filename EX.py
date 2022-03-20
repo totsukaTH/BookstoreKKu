@@ -15,6 +15,7 @@ thisdict = {
 thisdict["year"] = ['kla',1,("162.654.255",1255)]
 print(thisdict["year"])
 
+print('kuy')
 
 
 
