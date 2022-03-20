@@ -22,5 +22,4 @@ print('kuy')
 
 
 input()
-
 #tae
