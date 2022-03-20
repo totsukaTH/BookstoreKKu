@@ -22,4 +22,10 @@ print('kuy')
 
 
 input()
+
+
+print("8===D -----<")
+#121345115
+
+input()
 #tae
