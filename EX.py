@@ -19,7 +19,7 @@ print('kuy')
 
 #klayut
 #ass
-
+#fuck
 
 input()
 
